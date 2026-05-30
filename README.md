@@ -90,7 +90,7 @@ your control.
 
 -Türkçe-
 
-# Web Sitenize Proforma D/A Hesap Makinesi Ekleyin
+# Web Sitenize Proforma D/A Hesaplayıcısı Ekleyin
 
 Kendi web sitenize, tamamen işlevsel bir **Liman Proforma D/A hesaplayıcısı** 
 ekleyebilirsiniz. Herhangi bir dış marka adı, logo veya harici bir hizmet tarafından 
