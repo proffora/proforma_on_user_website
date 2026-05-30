@@ -1,4 +1,4 @@
-- English -
+English
 
 # Embed Proforma D/A Calculator on Your Website
 
