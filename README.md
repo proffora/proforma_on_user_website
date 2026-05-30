@@ -86,7 +86,7 @@ your control.
 ====================================
 
 
-- Türkçe -
+Türkçe
 
 # Web Sitenize Proforma D/A Hesap Makinesi Ekleyin
 
