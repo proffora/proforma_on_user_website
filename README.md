@@ -1,20 +1,28 @@
 -English-
 
-# Embed Proforma D/A Calculator on Your Website
+# Add a Proforma D/A Calculator to Your Website and Increase the Value of Your Agency Services
 
-You can add a fully functional **Ports Proforma D/A calculator** to your own website — 
-with no visible branding, no external logos, and no indication that it is powered by 
-an outside service. Your customers will feel they are using a tool that belongs entirely 
-to your company.
+You can add a fully functional **Ports Proforma D/A calculator** to your own website.
+Your customers will no longer need to wait for you to prepare a proforma — they can 
+create ports proformas themselves, directly through **your website**. This way you can 
+increase the quality and value of your agency services and offer your customers a modern, 
+distinctive service.
+
+No external brand name, logo, or any indication that the service is powered by an outside 
+provider will be visible. Your customers will think that this proforma service is a service 
+that belongs entirely to you.
 
 ---
 
-## What You Get
+## What You Gain
 
-- A fully working online Ports Proforma D/A calculator on your own website
+- A fully functional online Ports Proforma D/A calculator on your own website
+- Customers you have shared login credentials with can create their own proformas 
+  without waiting for you
 - No external branding or logos visible to your customers
 - Your customers never leave your website
-- The calculator page looks and feels like part of your own site
+- The proforma page looks and feels like a natural part of your own site
+- The quality and value of your agency services increases
 
 ---
 
@@ -90,21 +98,28 @@ your control.
 
 -Türkçe-
 
-# Web Sitenize Proforma D/A Hesaplayıcısı Ekleyin
+# Web Sitenize Proforma D/A Hesaplayıcısı Ekleyin, Acentelik Hizmetlerinizin Değerini Artırın
 
-Kendi web sitenize, tamamen işlevsel bir **Liman Proforma D/A hesaplayıcısı** 
-ekleyebilirsiniz. Herhangi bir dış marka adı, logo veya harici bir hizmet tarafından 
-desteklendiğine dair hiçbir ipucu görünmez. Müşterileriniz, bu aracın tamamen size 
-ait olduğunu hisseder.
+Kendi web sitenize tamamen işlevsel bir **Liman Proforma D/A hesaplayıcısı** ekleyebilirsiniz. 
+Müşterileriniz, sizden proforma beklemek zorunda kalmadan, doğrudan **sizin web siteniz** 
+üzerinden ports proforma oluşturabilirler. Bu sayede acentelik hizmetlerinizin kalitesini 
+ve değerini artırabilir, modern bir hizmet sunabilirsiniz.
+
+Herhangi bir dış marka adı, logo veya harici bir hizmet tarafından desteklendiğine dair 
+hiçbir ipucu görünmez. Müşterileriniz bu proforma hizmetinin doğrudan size ait olduğunu 
+düşüneceklerdir.
 
 ---
 
 ## Ne Kazanırsınız?
 
 - Kendi web sitenizde tam işlevli bir online Liman Proforma D/A hesaplayıcısı
-- Müşterilerinize görünür harici marka veya logo yok
+- Kullanıcı bilgilerini paylaştığınız müşterileriniz, sizden beklemeden proformalarını 
+  kendileri oluşturabilir
+- Müşterilerinize görünür herhangi bir harici marka veya logo yok
 - Müşterileriniz web sitenizden hiç ayrılmaz
 - Proforma sayfası, sitenizin doğal bir parçası gibi görünür ve hissedilir
+- Acentelik hizmetlerinizin kalitesi ve değeri artar
 
 ---
 
