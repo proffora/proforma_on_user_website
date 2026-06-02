@@ -168,6 +168,9 @@ uzmanlığa ihtiyacı yoktur. Kurulum 10 dakikadan az sürer.
 
 ---
 
+Kendi hesabınızla test edebilirsiniz: https://proffora.github.io/proforma_on_user_website/ 
+(Not: Kendi web sitenize kurduğunuzda tarayıcıda sadece sizin linkiniz görünür olacaktır)
+  
 ## Hesabınızı Yönetme
 
 Tüm hesap yönetimi, kendi kişisel "Prof.Fora" hesabınız üzerinden yapılır ve müşterilerinizin 
