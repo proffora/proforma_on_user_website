@@ -69,6 +69,12 @@ basic HTML. The whole setup takes less than 10 minutes.
 
 ---
 
+For testing: https://proffora.github.io/proforma_on_user_website/
+
+(Note: When applied on your own website, only your web site link will be visible in the browser)
+
+---
+
 ## Managing Your Account
 
 All account management is done through your own personal account and is completely 
@@ -168,8 +174,11 @@ uzmanlığa ihtiyacı yoktur. Kurulum 10 dakikadan az sürer.
 
 ---
 
-Kendi hesabınızla test edebilirsiniz: https://proffora.github.io/proforma_on_user_website/ 
-(Not: Kendi web sitenize kurduğunuzda tarayıcıda sadece sizin linkiniz görünür olacaktır)
+Test icin: https://proffora.github.io/proforma_on_user_website/ 
+
+(Not: Kendi web sitenize kurulduğunda, tarayıcıda sadece sizin web sitenizin linki görünür olacaktır)
+
+---
   
 ## Hesabınızı Yönetme
 
